@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "YAN JIAHUAN"
   avatar           : "profile.jpg"
-#  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Singapore | China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "yjh1337842463@u.nus.edu"
+  researchgate     :  "https://scholar.google.com.hk/citations?user=_qGKRv8AAAAJ&hl=zh-CN"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
